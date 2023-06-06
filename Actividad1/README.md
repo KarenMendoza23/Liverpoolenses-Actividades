@@ -2,9 +2,9 @@
 
 ## Listar Compute Engine.
 
-[Link](https://cloud.google.com/compute/docs/gcloud-compute/common-commands?hl=es-419)
+[Link]([https://cloud.google.com/compute/docs/gcloud-compute/common-commands?hl=es-419](https://cloud.google.com/sdk/gcloud/reference/compute/instances/list))
 ``` 
-gcloud.compute.instances.list
+gcloud compute instances list [NAME …] [--regexp=REGEXP, -r REGEXP] [--zones=ZONE,[ZONE,…]] [--filter=EXPRESSION] [--limit=LIMIT] [--page-size=PAGE_SIZE] [--sort-by=[FIELD,…]] [--uri] [GCLOUD_WIDE_FLAG …]
 ```
 
 ## Listar IPs en uso, existentes o reservadas.
