@@ -28,5 +28,3 @@ gcloud compute backend-buckets list [NAME …] [--regexp=REGEXP, -r REGEXP] [--f
 ``` 
 gcloud iam service-accounts list
 ```
-
->>>>>>> d6a9558e3f3ebb57305b61b9fc14106729164de4
