@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-hola
 =======
 # Comandos de gcloud
 
