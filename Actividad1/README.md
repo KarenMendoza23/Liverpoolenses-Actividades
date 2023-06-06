@@ -1,4 +1,3 @@
-=======
 # Comandos de gcloud
 
 ## Listar Compute Engine.
